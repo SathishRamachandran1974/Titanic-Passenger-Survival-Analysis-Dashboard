@@ -61,19 +61,20 @@ into meaningful insights, combining history with analytical learning.
 
 # 📂Dataset Information
   - Dataset Used: Titanic Passenger Dataset (Kaggle)
+
   | <a href ="https://github.com/SathishRamachandran1975/-Titanic-Passenger-Survival-Analysis-Dashboard-/blob/main/CLEANED_TITANIC.csv">TITANIC DATASET</a> |
-| Column Name      | Description                                  |
-|------------------|----------------------------------------------|
-| Name             | Passenger’s full name                        |
-| Gender           | Male / Female                                |
-| Age              | Age of the passenger                         |
-| Pclass           | Passenger class (1st, 2nd, 3rd)              |
-| SibSp            | No. of siblings/spouses aboard               |
-| Parch            | No. of parents/children aboard               |
-| Ticket           | Ticket number                                |
-| Fare             | Ticket fare paid                             |
-| Cabin            | Cabin number (if available)                  |
-| Embarked         | Boarding point (S = Southampton, C = Cherbourg, Q = Queenstown) |
+  | Column Name | Description |
+  |-------------|-------------|
+  | Name        | Passenger’s full name |
+  | Gender      | Male / Female |
+  | Age         | Age of the passenger | 
+  | Pclass      | Passenger class (1st, 2nd, 3rd) |
+  | SibSp       | No. of siblings/spouses aboard |
+  | Parch       | No. of parents/children aboard |
+  | Ticket      | Ticket number |
+  | Fare        | Ticket fare paid |
+  | Cabin       | Cabin number (if available) |
+  | Embarked    | Boarding point (S = Southampton, C = Cherbourg, Q = Queenstown) |
 
 # 🛠️Tools & Techniques
    - 📊Power BI → Dashboard design and visualization
