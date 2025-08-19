@@ -30,21 +30,21 @@ into meaningful insights, combining history with analytical learning.
        - 466 Males (35.6%)
        - 843 Females (64.4%)
   - 🚹Survival Breakdown by Gender
-       - Male: 734 ❌ did not survive, 109 ✅ survived
-       - Female: 81 ❌ did not survive, 385 ✅ survived
+       - Male: 734 - did not survive, 109 - survived
+       - Female: 81 - did not survive, 385 - survived
   - 🏷️Class-wise Survival
-       - 1st Class: 137 ✅ survived, 186 ❌ not survived → Total 323
-       - 2nd Class: 87 ✅ survived, 190 ❌ not survived → Total 277
-       - 3rd Class: 518 ❌ not survived, 491 ✅ survived → Total 1,009
+       - 1st Class: 137 - survived, 186 - not survived → Total 323
+       - 2nd Class: 87 - survived, 190 - not survived → Total 277
+       - 3rd Class: 518 - not survived, 491 - survived → Total 1,009
   - 🛳️Boarding Point Analysis
        - Southampton (S): 914 passengers (69.8%)
        - Cherbourg (C): 270 passengers (20.6%)
        - Queenstown (Q): 123 passengers (9.4%)
        - Unknown: 2 passengers
   - 📍Boarding Point Survival Analysis
-       - Southampton (S): 133 ✅ survived, 609 ❌ not survived
-       - Cherbourg (C): 93 ✅ survived, 127 ❌ not survived
-       - Queenstown (Q): 39 ✅ survived, 30 ❌ not survived
+       - Southampton (S): 133 - survived, 609 - not survived
+       - Cherbourg (C): 93 - survived, 127 - not survived
+       - Queenstown (Q): 39 - survived, 30 - not survived
   - 👨‍👩‍👧Family/Group Bookings
        - Ticket CA.2343 → 8 passengers
        - Ticket 1601 → 8 passengers
